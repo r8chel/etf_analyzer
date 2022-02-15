@@ -17,9 +17,7 @@ Build the ETF portfolio by using SQL joins to combine all the data for each asse
 
 #### Deploy the Notebook as a Web Application
 
-<video width="320" height="240" controls>
-  <source src="voila_etf_analyzer.mov" type="video/mp4" alt="Screen Recording of ETF Analyzer deployed with Voila">
-</video>
+![Screen Recording of ETF Analyzer deployed with Voila](voila_etf_analyzer.mov)
 
 <br>
 
